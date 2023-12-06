@@ -1,0 +1,67 @@
+.google-beta {
+    display: block;
+    margin: 0 auto;
+}
+.up-block {
+    background-color:gainsboro;
+}
+.search-place{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    margin-top: -15px;
+}
+.section-button{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.button-up-1{
+ cursor:pointer
+}
+.button-up-2 {
+    cursor:pointer
+}
+.down-block {
+    display: flex;
+    justify-content: stretch;
+    gap: 3px;
+    margin-top: 3px;
+}
+.div-1 {
+    display: inline-block;
+    width: 700px;
+    background-color:#1AF1EE 
+}
+
+.div-2 {
+    display: inline-block;
+    width: 500px;
+    background-color: #16C2BB ;
+}
+
+.div-3 {
+    display: inline-block;
+    width: 800px; 
+    text-align: center;
+    background-color: #0FB390 ;
+}
+.div-1-a {
+    display: flex;
+    justify-content: center;
+
+}
+.div-1-p {
+    display: flex;
+    justify-content: center;
+} 
+
+.div-2-a {
+    display: flex;
+    justify-content: center;
+}
+.div-3-p {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
